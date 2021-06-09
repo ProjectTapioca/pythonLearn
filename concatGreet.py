@@ -1,2 +1,2 @@
-greeting = "G'day" + "mate"
+greeting = "G'day" + " mate"
 print(greeting) 
